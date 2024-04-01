@@ -9,6 +9,10 @@ public class A
 	}
 public void m1()
 	{
-		System.out.Println("Hello pragti");
+	System.out.println("Hello pragti");
 	}
+public void m2()
+{
+System.out.println("Hello pragti");
+}
 }
