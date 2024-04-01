@@ -7,5 +7,8 @@ public class A
 		System.out.println("Hello");
 		
 	}
-
+public void m1()
+	{
+		System.out.Println("Hello pragti");
+	}
 }
